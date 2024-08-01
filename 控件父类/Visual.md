@@ -104,3 +104,4 @@ public abstract class Visual : DependencyObject, IResource
   返回一个转换，该转换可用于将Visual中的坐标转换为指定的可视对象后代
 - `GeneralTransform TransformToVisual(Visual visual);`
   返回一个转换，该转换可用于将Visual中的坐标住那换为指定的可视对象
+
