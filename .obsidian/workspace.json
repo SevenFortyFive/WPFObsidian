@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d2492a66109a96a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c398ac45eb284b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7bfd0a97c93f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "控件父类/控件父类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e46ee1871afa1bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "控件父类/Visual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35f8358732d0977c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bcc9744e0957e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6252e41a8e25af55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a04feefdfb3e7913",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfb5ce81a70d9e81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6e53384970f5f074",
+    "type": "split",
+    "children": [
+      {
+        "id": "befbfddd2db53fd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5f383c13dbaa41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "控件父类/Visual.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a7d6e9781d9ce68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "控件父类/Visual.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ab6abc4ec2afb13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c515e69a8ddb49f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "控件父类/Visual.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "e46ee1871afa1bb9",
+  "lastOpenFiles": [
+    "控件父类/控件父类.md",
+    "控件父类/Visual.md",
+    "控件父类/DependencyObject.md",
+    "控件父类/DispatcherObject.md",
+    "控件父类",
+    "基础/Window.md",
+    "基础/Application.md",
+    "基础/未命名.md",
+    "img/Pasted image 20240801110108.png",
+    "草稿/Drawing 2024-08-01 08.54.58.excalidraw.md",
+    "img/Pasted image 20240801104514.png",
+    "基础/项目结构.md",
+    "img/Pasted image 20240801100448.png",
+    "基础/App.xaml.md",
+    "img/Pasted image 20240801085910.png",
+    "img",
+    "Pasted image 20240801085859.png",
+    "Excalidraw/Drawing 2024-08-01 08.57.15.excalidraw.md",
+    "Excalidraw",
+    "草稿.md",
+    "草稿",
+    "未命名.canvas",
+    "基础",
+    "WPF",
+    "创建链接.md",
+    "欢迎.md"
+  ]
+}
