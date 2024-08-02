@@ -8,7 +8,7 @@
 
 ## 前端代码
 
-```js
+```xml
 //前端代码
 <Application x:Class="HelloWorld.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"

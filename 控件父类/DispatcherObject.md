@@ -21,7 +21,7 @@
 
 ## 使用Dispatcher
 
-```js
+```xml
 <Window x:Class="MyWPF.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"

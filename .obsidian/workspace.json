@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c398ac45eb284b94",
+        "id": "e7260f269e8b6457",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7bfd0a97c93f57",
+            "id": "d09400a1e947dc5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "控件父类/控件父类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e46ee1871afa1bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "控件父类/Visual.md",
+                "file": "控件父类/FrameworkElement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "控件父类/Visual.md",
+                "file": "控件父类/FrameworkElement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "控件父类/Visual.md",
+                "file": "控件父类/FrameworkElement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "控件父类/Visual.md"
+                "file": "控件父类/FrameworkElement.md"
               }
             }
           }
@@ -162,22 +149,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e46ee1871afa1bb9",
+  "active": "d09400a1e947dc5c",
   "lastOpenFiles": [
-    "控件父类/控件父类.md",
-    "控件父类/Visual.md",
-    "控件父类/DependencyObject.md",
+    "控件父类/UIElement.md",
     "控件父类/DispatcherObject.md",
-    "控件父类",
-    "基础/Window.md",
+    "控件父类/DependencyObject.md",
+    "控件父类/控件父类.md",
+    "基础/项目结构.md",
+    "基础/App.xaml.md",
     "基础/Application.md",
+    "基础/Window.md",
+    "控件父类/FrameworkElement.md",
+    "控件父类/Visual.md",
+    "README.md",
+    "控件父类",
     "基础/未命名.md",
     "img/Pasted image 20240801110108.png",
     "草稿/Drawing 2024-08-01 08.54.58.excalidraw.md",
     "img/Pasted image 20240801104514.png",
-    "基础/项目结构.md",
     "img/Pasted image 20240801100448.png",
-    "基础/App.xaml.md",
     "img/Pasted image 20240801085910.png",
     "img",
     "Pasted image 20240801085859.png",
